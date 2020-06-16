@@ -5,13 +5,15 @@ Problem Stament: To build a predictive model to identify patterns in the given v
 
 Data: The train and test data will consist of the various features that will help to predict if a hack is going to happen or not.
 
-The variables present are:\n
-    * INCIDENT_ID: Unique identifier for incident log\n,
-    * DATE: Date wof occurence\n,
+The variables present are:
+
+    * INCIDENT_ID: Unique identifier for incident log,
+    * DATE: Date wof occurence,
     * X_1- X_15: Anonymized logging partners
  
- The parameter to be predicted:\n
-   MULTIPLE_OFFENSE: Indicates if the incident was a hack(1: Yes, 0: No)
+ The parameter to be predicted:
+ 
+   * MULTIPLE_OFFENSE: Indicates if the incident was a hack(1: Yes, 0: No)
 
-This was a hackathon in HackerEarth:\n 
+This was a hackathon in HackerEarth:
 "Novartis Data Science Hiring Challenge(https://www.hackerearth.com/challenges/hiring/novartis-data-science-hiring-challenge/)"
